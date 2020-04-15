@@ -1,2 +1,2 @@
-del C:\Users\%USERNAME%\Timesheet.bat
-SchTasks /Delete /TN Timesheet
+del C:\Users\%USERNAME%\script.bat
+SchTasks /Delete /TN custom_task
