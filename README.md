@@ -10,8 +10,12 @@ This file is to delete scheduler what you have created in above step.if you chan
 
 # script.bat
 
-there is a example command to open a link in browser you can modify it to your requirement and save it.
+there is a example command to open a pop up message box with link to open in browser you can modify it to your requirement and save it.
 if you change script.bat file name update in above two files
+
+# script.vbs
+
+This script will run the bat file in invisible mode so that no time will be visible while using the bat script.
 
 
 ########## NOTE ##########
